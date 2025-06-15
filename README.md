@@ -1,2 +1,2 @@
-# i2c_ssd1306
-SSD1306 Oled driver using I2C
+# SSD1306 OLED I2C driver for STM32F401CEU6 (Black Pill)
+Used platformio with CMSIS framework.
